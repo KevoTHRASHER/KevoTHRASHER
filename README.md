@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevoTHRASHER
-- 👀 I’m interested in Web Development & SKATE
+- 👀 I’m interested in Web Development & SKATE 🛹
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Open Source Code
 - 📫 How to reach me ...
