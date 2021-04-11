@@ -10,8 +10,7 @@
 
 <h2># - 📫 How to reach me ... </h2>
 <img src="https://media.tenor.com/images/7a8b9435d0d0beec6d81e21808c402ec/tenor.gif">
-- 👋 https://www.facebook.com/Kevo.THRASHER
-- 👋 https://www.instagram.com/kevo.thrasher/
+👋 https://www.facebook.com/Kevo.THRASHER 👋 https://www.instagram.com/kevo.thrasher/
 
 <!---
 KevoTHRASHER/KevoTHRASHER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
