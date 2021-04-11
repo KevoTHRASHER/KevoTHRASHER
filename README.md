@@ -12,7 +12,6 @@
 - 👋 https://www.facebook.com/Kevo.THRASHER
 - 👋 https://www.instagram.com/kevo.thrasher/
 
-<!--- Icons --->[1.2]: https://www.flaticon.es/svg/vstatic/svg/733/733547.svg?token=exp=1618158490~hmac=770272c3177a75a3e209c16e97558b38
 <!---
 KevoTHRASHER/KevoTHRASHER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
