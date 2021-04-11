@@ -1,5 +1,5 @@
 
-# Kevo.THRASHER 👨‍💻 & 🛹
+# Kevo.THRASHER 👨‍💻 🛹
 
 - 👋 Hi, I’m @KevoTHRASHER
 - 👀 I’m interested in Web Development 👨‍💻 & SKATE 🛹
