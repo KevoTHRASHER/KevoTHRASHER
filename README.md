@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on Open Source Code
 
 # - 📫 How to reach me ...
+https://www.facebook.com/Kevo.THRASHER
 
 <!---
 KevoTHRASHER/KevoTHRASHER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
