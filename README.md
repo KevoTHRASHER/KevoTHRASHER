@@ -1,6 +1,7 @@
 
 # Kevo.THRASHER 👨‍💻 🛹
 <img src="https://media.tenor.com/images/55c61072bf952cb2b1744c327d193fd1/tenor.gif">
+
 - 👋 Hi, I’m @KevoTHRASHER
 - 👀 I’m interested in Web Development 👨‍💻 & SKATE 🛹
 - 🌱 I’m currently learning JAVA
