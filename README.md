@@ -1,3 +1,6 @@
+
+# Kevo.THRASHER 👨‍💻 & SKATE 🛹
+
 - 👋 Hi, I’m @KevoTHRASHER
 - 👀 I’m interested in Web Development 👨‍💻 & SKATE 🛹
 - 🌱 I’m currently learning JAVA
