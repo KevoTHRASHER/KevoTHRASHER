@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Open Source Code
 
 
-<h2># - 📫 How to reach me ... </h2>
+## - 📫 How to reach me ...
 <img src="https://media.tenor.com/images/7a8b9435d0d0beec6d81e21808c402ec/tenor.gif">
 👋 https://www.facebook.com/Kevo.THRASHER 👋 https://www.instagram.com/kevo.thrasher/
 
