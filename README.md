@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on Open Source Code
 - 👨‍💻 My favorite code editor is NeoVim 🧑‍💻
 
-## Languages & Technologies I have used ...
+## Languages & Technologies ...
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
