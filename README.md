@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @KevoTHRASHER
 - 👀 I’m interested in Web Development 👨‍💻 & SKATE 🛹
 - 🌱 I’m currently learning JAVA
-- 💻 My favorite operating system is a GNU/Linux Distribution actually 🐃/🐧 ArchLinux with BSPWM Window Manager
+- 💻 My favorite operating system is a GNU/Linux Distribution named 🐃/🐧 ArchLinux with BSPWM Window Manager
 - 💞️ I’m looking to collaborate on Open Source Code
 - 👨‍💻 My favorite code editor is NeoVim 🧑‍💻
 
@@ -27,6 +27,8 @@
 ## 📫 How to reach me ...
 
 <img src="https://media.tenor.com/images/7a8b9435d0d0beec6d81e21808c402ec/tenor.gif">
+
+📧 rosxhead@gmail.com
 👋 https://www.facebook.com/Kevo.THRASHER 👋 https://www.instagram.com/kevo.thrasher/
 
 
