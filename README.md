@@ -29,7 +29,8 @@
 <img src="https://media.tenor.com/images/7a8b9435d0d0beec6d81e21808c402ec/tenor.gif">
 
 📧 rosxhead@gmail.com
-👋 https://www.facebook.com/Kevo.THRASHER 👋 https://www.instagram.com/kevo.thrasher/
+👋 https://www.facebook.com/Kevo.THRASHER 
+👋 https://www.instagram.com/kevo.thrasher/
 
 
 <!---
