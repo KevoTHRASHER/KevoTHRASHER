@@ -2,7 +2,6 @@
 # Kevo.THRASHER 👨‍💻 🛹
 <img src="https://media.tenor.com/images/55c61072bf952cb2b1744c327d193fd1/tenor.gif">
 
-
 - 👋 Hi, I’m @KevoTHRASHER
 - 👀 I’m interested in Web Development 👨‍💻 & SKATE 🛹
 - 🌱 I’m currently learning JAVA
@@ -11,7 +10,6 @@
 - 👨‍💻 My favorite code editor is NeoVim 🧑‍💻
 
 ## Languages & Technologies ...
-
 
 <div align="center">
   <a href="https://github.com/KevoTHRASHER">
@@ -36,6 +34,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&color=orange)
+<!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 
 ## 📫 How to reach me ...
 
