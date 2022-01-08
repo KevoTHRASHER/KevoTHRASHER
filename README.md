@@ -12,6 +12,19 @@
 
 ## Languages & Technologies ...
 
+<div align="center">
+  <a href="https://github.com/KevoTHRASHER">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevoTHRASHER&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevoTHRASHER&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<!--    COMMENT
+<div style="display: inline_block"><br>
+	<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+	<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+	<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+</div>
+-->
+
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
