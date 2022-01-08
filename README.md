@@ -12,6 +12,7 @@
 
 ## Languages & Technologies ...
 
+
 <div align="center">
   <a href="https://github.com/KevoTHRASHER">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevoTHRASHER&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -25,6 +26,7 @@
 </div>
 -->
 
+#
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,8 +36,6 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&color=orange)
-
-
 
 ## 📫 How to reach me ...
 
