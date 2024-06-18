@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @KevoTHRASHER
 - 🇲🇽 I'm from México 🇲🇽
-- 👀 I’m interested in Web Development 👨‍💻 & SKATE 🛹
+- 👀 I’m interested in Web Development 👨🏻‍💻 & SKATE 🛹
 - 📖 I’m currently learning JAVA & little PHP
 - 💻 My favorite operating system is a GNU/Linux Distribution named 🐃/🐧 ArchLinux with BSPWM Window Manager
 - 💞️ I’m looking to collaborate on Open Source Code
